@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: boe-sg
+
+yang:
+  isWork: true
+
+
+  # 自定义中间件配置
+itstack:
+  door:
+    enabled: true
+    userStr: 1001,aaaa,ccc #白名单用户ID，多个逗号隔开
+
+
+
+
+
